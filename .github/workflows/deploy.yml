@@ -29,6 +29,6 @@ jobs:
           publish_dir: ./public
           #   keep_files: true
           user_name: f2iore
-          user_email: 
+          user_email: fiorenzo.fiore@majorana-giorgi.edu.it
           publish_branch: master
         #   cname: example.com
